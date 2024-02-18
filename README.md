@@ -1,1 +1,1 @@
-Hypnotising loading animation, inspired by 'Berserk"
+Hypnotising loading animation, inspired by "Berserk".
